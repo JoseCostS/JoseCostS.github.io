@@ -103,7 +103,7 @@ export default function Portfolio() {
       <img src="/img/pobreflix.png" alt="PobreFlix" />
       <div className="project-info">
         <h4>PobreFlix</h4>
-        <p>App de streaming com filmes e séries, inspirado no Netflix.</p>
+        <p>App de streaming com filmes e séries.</p>
       </div>
     </div>
   </div>
